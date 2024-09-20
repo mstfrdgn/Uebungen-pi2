@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="130085f8-e845-4149-abbc-c8039c67caf1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/InsectHotel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/InsectHotel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectHotel.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/InsectHotel.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectHotel.iws" beforeDir="false" afterPath="$PROJECT_DIR$/InsectHotel.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InsectHotel/de/uni_bremen/pi2/InsectHotel$Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InsectHotel/de/uni_bremen/pi2/InsectHotel$Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InsectHotel/de/uni_bremen/pi2/InsectHotel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InsectHotel/de/uni_bremen/pi2/InsectHotel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/InsectHotel/de/uni_bremen/pi2/InsectHotelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/InsectHotel/de/uni_bremen/pi2/InsectHotelTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/de.uni_bremen.pi2/InsectHotel.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/de.uni_bremen.pi2/InsectHotel.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/de.uni_bremen.pi2/InsectHotelTest.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/de.uni_bremen.pi2/InsectHotelTest.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/de.uni_bremen.pi2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/de.uni_bremen.pi2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/mutations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/report/mutations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/uni_bremen/pi2/InsectHotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/uni_bremen/pi2/InsectHotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/de/uni_bremen/pi2/InsectHotelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/de/uni_bremen/pi2/InsectHotelTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gBopMxqDWb7mIE3inxJF0YKSRd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.InsectHotelTest.executor": "Coverage",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="de.uni_bremen.pi2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.InsectHotelTest">
+    <configuration name="InsectHotelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InsectHotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.InsectHotelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsectHotelTest.check" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InsectHotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.InsectHotelTest" />
+      <option name="METHOD_NAME" value="check" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsectHotelTest.testComplex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InsectHotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.InsectHotelTest" />
+      <option name="METHOD_NAME" value="testComplex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsectHotelTest.testFillAndCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InsectHotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.InsectHotelTest" />
+      <option name="METHOD_NAME" value="testFillAndCheck()" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsectHotelTest.testInsectHotelCheckMethod_Solved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InsectHotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.InsectHotelTest" />
+      <option name="METHOD_NAME" value="testInsectHotelCheckMethod_Solved" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InsectHotelTest" />
+        <item itemvalue="JUnit.InsectHotelTest.check" />
+        <item itemvalue="JUnit.InsectHotelTest.testInsectHotelCheckMethod_Solved" />
+        <item itemvalue="JUnit.InsectHotelTest.testComplex" />
+        <item itemvalue="JUnit.InsectHotelTest.testFillAndCheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="130085f8-e845-4149-abbc-c8039c67caf1" name="Changes" comment="" />
+      <created>1715180515210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715180515210</updated>
+      <workItem from="1715846254816" duration="5998000" />
+      <workItem from="1715852278153" duration="1209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/InsectHotel$InsectHotelTest_testComplex.ic" NAME="InsectHotelTest.testComplex Coverage Results" MODIFIED="1715851642789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InsectHotel$InsectHotelTest.ic" NAME="InsectHotelTest Coverage Results" MODIFIED="1715853363225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
